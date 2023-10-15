@@ -1,0 +1,48 @@
+.indyeats {
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    top: 100px;
+    background-color: aquamarine;
+    border-radius: 15px;
+}
+
+.cuisine {
+    width: 275px;
+    height: 275px;
+    border-radius: 15px;
+    border: 3px solid #ffd47f;
+    position: absolute;
+}
+
+.cuisine h2 {
+    background-color: #fffcf5;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.heading {
+    position: absolute;
+    width: 100%;
+    top: 60px;
+    font-size: 60px;
+    text-align: center;
+    z-index: 10;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.address {
+    position: absolute;
+    top: 75px;
+    left: 500px; 
+}
+
+.description{
+    position: absolute;
+    bottom: 25px;
+    padding: 15px;
+}
